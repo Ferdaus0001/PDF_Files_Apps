@@ -118,6 +118,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.4.0+1"
+  flutter_swipe_button:
+    dependency: "direct main"
+    description:
+      name: flutter_swipe_button
+      sha256: "67df9f1121ad10429b900a723366403441634ebb2c064fd4babb7de274366a36"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.1.3"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -128,6 +136,22 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  get:
+    dependency: "direct main"
+    description:
+      name: get
+      sha256: c79eeb4339f1f3deffd9ec912f8a923834bec55f7b49c9e882b8fef2c139d425
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.7.2"
+  gradient_slide_to_act:
+    dependency: "direct main"
+    description:
+      name: gradient_slide_to_act
+      sha256: aa08019f20f1a8fe80f61ed774c34aca9939c034cdb49cf4d5fa3329337d0ad3
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.2"
   image:
     dependency: transitive
     description:
@@ -421,6 +445,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  sliding_action_button:
+    dependency: "direct main"
+    description:
+      name: sliding_action_button
+      sha256: e198391821c91b2195316af5fc36e712fb06264e90205f44d908153fc7377170
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.7"
   source_span:
     dependency: transitive
     description:
@@ -453,6 +485,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.4.1"
+  swipeable_button_view:
+    dependency: "direct main"
+    description:
+      name: swipeable_button_view
+      sha256: "6fbe3fe9084d849828fa49bf1f5d48a107f7797e3c7eff41aa61541c0b6d97f2"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.2"
   term_glyph:
     dependency: transitive
     description:
